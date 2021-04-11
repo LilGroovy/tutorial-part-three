@@ -6,7 +6,7 @@ export default function About() {
     <Layout>
       <h1>About Nikolai The Great</h1>
       <p>
-        Nobody do it better
+        Nobody does it better.
       </p>
     </Layout>
   )
